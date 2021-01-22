@@ -1,0 +1,15 @@
+{
+    "name": "Managers.Scripts",
+    "references": [
+        "GUID:e32d90aac6bb20f4ea2d6fcef79b3341"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
